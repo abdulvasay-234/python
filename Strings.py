@@ -1,5 +1,6 @@
 # STRINGS
-course = "Python for beginers"   # the string in python is technically real world object
+# the string in python is technically real world object
+course = "Python for beginers"   
 print(course.upper())
 print(course.lower())
 print(course.replace("h" , "H"))
