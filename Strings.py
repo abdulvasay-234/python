@@ -1,6 +1,5 @@
 # STRINGS
-# the string in python is technically real world object
-course = "Python for beginers"   
+course = "Python Programming"   
 print(course.upper())
 print(course.lower())
 print(course.replace("h" , "H"))
